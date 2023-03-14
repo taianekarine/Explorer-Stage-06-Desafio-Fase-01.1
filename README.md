@@ -35,7 +35,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 Instale meu projeto com npm
 
 ```bash
-  git clone ....
+  git clone git@github.com:taianekarine/Explorer-Stage-06-Desafio-Fase-01.1.git
   npm init -y
   npm start
 ```
