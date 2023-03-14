@@ -56,6 +56,8 @@ Instale meu projeto com npm
 
 ![spa](https://user-images.githubusercontent.com/94652702/200237288-40e7db6f-fd41-4b79-bee2-4040b209088d.png)
 
+Figma: https://www.figma.com/file/qqefiOLXJww87Aa7OZkcVL/Desafios-Explorer-SPA-Universe-Copy?fuid=1120805184871805555
+
 ## Você pode acessar o projeto online através do link abaixo:
 https://spa-universe-psi.vercel.app/
 
